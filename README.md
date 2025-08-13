@@ -102,6 +102,8 @@ Canal del Caballo (Sitio WordPress)
     ├── Checkout
     └── Mi Cuenta
 ```
+---
+
 📱 Responsividad y Optimización
 Para garantizar un diseño profesional en móviles:
 
@@ -112,6 +114,8 @@ Para garantizar un diseño profesional en móviles:
 - Solución aplicada: creación de un contenedor general en cada página para controlar proporciones y aplicar CSS adaptativo.
 
 - Configuración para mostrar un producto por fila en móvil y evitar desbordamientos.
+  
+---
 
 🔄 Flujo de Desarrollo
 Diseño inicial en LocalWP (entorno local).
@@ -126,6 +130,8 @@ Diseño inicial en LocalWP (entorno local).
 
 - Ajustes CSS para WooCommerce y optimización móvil.
 
+---
+
 🚀 Despliegue
 El sitio se despliega en InfinityFree (Para pruebas, se carga maqueta a la cual se le realizan
 pruebas funcionales.
@@ -136,9 +142,13 @@ La migración incluyó:
 - Importación de base de datos.
 
 - Reemplazo de rutas internas con Better Search Replace.
+  
+---
 
 📸 Capturas de Pantalla
 (Pendiente — se agregarán imágenes y diagramas visuales en próximas actualizaciones)
+
+---
 
 📋 Pendientes / Próximas Mejoras
 
@@ -147,6 +157,8 @@ La migración incluyó:
 - Integración de pasarelas de pago locales e internacionales.
 
 - Mejoras visuales en la sección CanalPlus.
+
+---
 
 📜 Licencia
 Este repositorio contiene únicamente documentación y recursos técnicos.
