@@ -105,51 +105,49 @@ Canal del Caballo (Sitio WordPress)
 📱 Responsividad y Optimización
 Para garantizar un diseño profesional en móviles:
 
-Se realizaron pruebas de responsividad en resoluciones desktop, tablet y smartphone.
+- Se realizaron pruebas de responsividad en resoluciones desktop, tablet y smartphone.
 
-Problemas detectados en WooCommerce: botones e iconos sobredimensionados.
+- Problemas detectados en WooCommerce: botones e iconos sobredimensionados.
 
-Solución aplicada: creación de un contenedor general en cada página para controlar proporciones y aplicar CSS adaptativo.
+- Solución aplicada: creación de un contenedor general en cada página para controlar proporciones y aplicar CSS adaptativo.
 
-Configuración para mostrar un producto por fila en móvil y evitar desbordamientos.
+- Configuración para mostrar un producto por fila en móvil y evitar desbordamientos.
 
 🔄 Flujo de Desarrollo
 Diseño inicial en LocalWP (entorno local).
 
-Creación de secciones y páginas con Elementor.
+- Creación de secciones y páginas con Elementor.
 
-Inserción de video .m3u8 y redes sociales mediante SnapWidget y Facebook Page Plugin.
+- Inserción de video .m3u8 y redes sociales mediante SnapWidget y Facebook Page Plugin.
 
-Migración a hosting InfinityFree.
+- Migración a hosting InfinityFree.
 
-Reemplazo de URLs internas con Better Search Replace.
+- Reemplazo de URLs internas con Better Search Replace.
 
-Ajustes CSS para WooCommerce y optimización móvil.
+- Ajustes CSS para WooCommerce y optimización móvil.
 
 🚀 Despliegue
-El sitio se despliega en InfinityFree.
+El sitio se despliega en InfinityFree (Para pruebas, se carga maqueta a la cual se le realizan
+pruebas funcionales.
 La migración incluyó:
 
-Subida de archivos vía FTP.
+- Subida de archivos vía FTP.
 
-Importación de base de datos.
+- Importación de base de datos.
 
-Reemplazo de rutas internas con Better Search Replace.
+- Reemplazo de rutas internas con Better Search Replace.
 
 📸 Capturas de Pantalla
 (Pendiente — se agregarán imágenes y diagramas visuales en próximas actualizaciones)
 
 📋 Pendientes / Próximas Mejoras
-Implementar galería multimedia.
 
-Optimización de carga de videos.
+- Optimización de carga de videos y calidad de fotografias (Logos/Iconos).
 
-Integración de pasarelas de pago locales e internacionales.
+- Integración de pasarelas de pago locales e internacionales.
 
-Mejoras visuales en la sección CanalPlus.
+- Mejoras visuales en la sección CanalPlus.
 
 📜 Licencia
 Este repositorio contiene únicamente documentación y recursos técnicos.
 No se distribuye el código fuente completo por derechos de terceros.
-
-
