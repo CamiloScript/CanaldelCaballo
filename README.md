@@ -6,6 +6,11 @@ Este proyecto centraliza toda la información técnica, estructura, personalizac
 
 ---
 
+## 📌 LINK DIRECTO MAQUETA CANAL DEL CABALLO 2025
+
+https://canaldelcaballocl.42web.io
+
+---
 ## 📌 Descripción General
 
 El sitio se diseñó como una **one-page** con páginas adicionales para WooCommerce y secciones personalizadas. Está orientado a presentar el proyecto Canal del Caballo, ofrecer señal online en vivo, mostrar contenido multimedia y vender productos mediante una tienda online.
