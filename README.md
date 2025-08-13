@@ -101,7 +101,7 @@ Canal del Caballo (Sitio WordPress)
     ├── Carrito
     ├── Checkout
     └── Mi Cuenta
-
+```
 📱 Responsividad y Optimización
 Para garantizar un diseño profesional en móviles:
 
