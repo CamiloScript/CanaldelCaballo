@@ -104,7 +104,7 @@ Canal del Caballo (Sitio WordPress)
 ```
 ---
 
-📱 Responsividad y Optimización
+## 📱 Responsividad y Optimización
 Para garantizar un diseño profesional en móviles:
 
 - Se realizaron pruebas de responsividad en resoluciones desktop, tablet y smartphone.
@@ -117,7 +117,7 @@ Para garantizar un diseño profesional en móviles:
   
 ---
 
-🔄 Flujo de Desarrollo
+## 🔄 Flujo de Desarrollo
 Diseño inicial en LocalWP (entorno local).
 
 - Creación de secciones y páginas con Elementor.
@@ -132,7 +132,7 @@ Diseño inicial en LocalWP (entorno local).
 
 ---
 
-🚀 Despliegue
+## 🚀 Despliegue
 El sitio se despliega en InfinityFree (Para pruebas, se carga maqueta a la cual se le realizan
 pruebas funcionales.
 La migración incluyó:
@@ -145,12 +145,12 @@ La migración incluyó:
   
 ---
 
-📸 Capturas de Pantalla
+## 📸 Capturas de Pantalla
 (Pendiente — se agregarán imágenes y diagramas visuales en próximas actualizaciones)
 
 ---
 
-📋 Pendientes / Próximas Mejoras
+## 📋 Pendientes / Próximas Mejoras
 
 - Optimización de carga de videos y calidad de fotografias (Logos/Iconos).
 
@@ -160,6 +160,6 @@ La migración incluyó:
 
 ---
 
-📜 Licencia
+## 📜 Licencia
 Este repositorio contiene únicamente documentación y recursos técnicos.
 No se distribuye el código fuente completo por derechos de terceros.
